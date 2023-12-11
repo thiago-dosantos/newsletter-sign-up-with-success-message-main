@@ -8,4 +8,4 @@ A very detailed project that made me test my knowledge of HTML/CSS and Javascrip
 
 If you want to see what it looked like live, click on link below:
 
-[Project Live][http://sign-upwithmsg.netlify.app]
+[Project Live]([http://exemplo.com/](https://signup-withmsg.netlify.app/)https://signup-withmsg.netlify.app/)
